@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class FengGameManagerMKII : Photon.MonoBehaviour
 {
-    public static readonly string applicationId = "f1f6195c-df4a-40f9-bae5-4744c32901ef";
+    public static readonly string applicationId = "5578b046-8264-438c-99c5-fb15c71b6744";
     private ArrayList chatContent;
     public GameObject checkpoint;
     private ArrayList cT;
